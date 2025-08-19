@@ -1,0 +1,5 @@
+FR
+
+As a user, 
+I want to search for available trains between two stations on a specific date, 
+So that I can plan my travel and choose a suitable option.
